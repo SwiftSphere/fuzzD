@@ -17,7 +17,7 @@ fuzzD is an advanced IOKit fuzzer designed to discover vulnerabilities in macOS 
 - **Better Flip Bit**
 
 ## Build
-Create Objective-C example app in XCode,after that replace exmaple code to code of fuzzer
+Create Objective-C example app in XCode,after that replace exmaple code to code of fuzzer.Also you need private IOKit headers.
 # Usage
 
 Open builded app on iOS/macOS
