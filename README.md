@@ -17,15 +17,10 @@ fuzzD is an advanced IOKit fuzzer designed to discover vulnerabilities in macOS 
 - **Better Flip Bit**
 
 ## Build
-
-```bash
-gcc -o fuzzer fuzzer.c -framework IOKit 
-```
+Create Objective-C example app in XCode,after that replace exmaple code to code of fuzzer
 # Usage
 
-```bash
-./fuzzer
-```
+Open builded app on iOS/macOS
 # Disclaimer
 For educational and security research purposes only. May cause system instability. Use responsibly.
 
